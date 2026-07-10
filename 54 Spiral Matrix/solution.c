@@ -1,6 +1,6 @@
 /*
  * LeetCode 54 - Spiral Matrix
- * Solved first using extra tracking variables(total - 7 😂); refactored later to
+ * Solved first using extra tracking variables(7 variables); refactored later to
  * standard 4-boundary spiral approach for clarity.
  */
 #include<stdlib.h>
